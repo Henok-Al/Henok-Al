@@ -6,8 +6,8 @@ I'm a Full-Stack Developer passionate about building dynamic and responsive web 
 
 ### 🌟 Skills & Technologies
 
-- **Front-End**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Shadcn
-- **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Drizzle
+- **Front-End**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Shadcn, Saas
+- **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Drizzle, Firebase
 - **Full-Stack**: MERN Stack
 - **Design**: Figma
 
