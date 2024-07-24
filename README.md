@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there, I'm Henok Alemu 👋
 
-<!--
-**Henok-Al/Henok-Al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer passionate about building dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I love creating seamless and efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Skills & Technologies
+
+- **Front-End**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Shadcn
+- **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Drizzle
+- **Full-Stack**: MERN Stack
+- **Design**: Figma
+
+### 🚀 Projects
+
+- **[Blog App](https://github.com/henok-alemu/blog-app)**: A feature-rich blogging platform built with React and Firebase.
+- **[Social Media App](https://github.com/henok-alemu/social-media-app)**: A social networking site developed using the MERN stack.
+- **[Bookstore App](https://github.com/henok-alemu/bookstore-app)**: An e-commerce platform for books, created with the MERN stack.
+- **[Admin Dashboard](https://github.com/henok-alemu/admin-dashboard)**: A comprehensive admin dashboard built with Next.js 14.
+
+### 📊 GitHub Stats
+
+![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henok-alemu&show_icons=true&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=henok-alemu&style=flat-square)
+
+### 💬 Let's Connect
+
+- **[LinkedIn](https://www.linkedin.com/in/henok-alemu)**
+- **[Twitter](https://twitter.com/henok_alemu)**
+- **[Email](mailto:henok.alemu@example.com)**
+
+Thanks for visiting my profile. Let's build something amazing together!
