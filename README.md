@@ -13,10 +13,10 @@ I'm a Full-Stack Developer passionate about building dynamic and responsive web 
 
 ### 🚀 Projects
 
-- **[Blog App]([https://github.com/henok-alemu/blog-app](https://react-firebase-blog-app-595df.web.app/))**: A feature-rich blogging platform built with React and Firebase.
+- **[Blog App](https://github.com/henok-alemu/blog-app](https://react-firebase-blog-app-595df.web.app/))**: A feature-rich blogging platform built with React and Firebase.
 - **[Social Media App](https://github.com/henok-alemu/social-media-app)**: A social networking site developed using the MERN stack.
 - **[Bookstore App](https://github.com/henok-alemu/bookstore-app)**: An e-commerce platform for books, created with the MERN stack.
-- **[Admin Dashboard]([https://github.com/henok-alemu/admin-dashboard](https://github.com/Henok-Al/nextjs14-admin-dashboard))**: A comprehensive admin dashboard built with Next.js 14.
+- **[Admin Dashboard](https://github.com/henok-alemu/admin-dashboard](https://github.com/Henok-Al/nextjs14-admin-dashboard))**: A comprehensive admin dashboard built with Next.js 14.
 
 ### 📊 GitHub Stats
 
