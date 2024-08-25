@@ -10,6 +10,7 @@ I'm a Full-Stack Developer passionate about building dynamic and responsive web 
 - **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Drizzle, Firebase
 - **Full-Stack**: MERN Stack
 - **Design**: Figma
+- **Mobile**: Learning React Native
 
 ### 🚀 Projects
 
