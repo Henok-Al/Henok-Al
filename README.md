@@ -1,46 +1,37 @@
 # Hi 👋, I'm HENOK
 
-A passionate Full Stack Developer from Ethiopia
+I'm a **Full Stack Developer** from Ethiopia, passionate about building digital experiences. Currently, I'm diving deep into **React Native**, **Typescript**, and **DevOps** tools like **Docker** and **Kubernetes**.
 
-- 🌱 I’m currently learning **,ReactNative, Typescript,docker,**, including **Docker, Kubernetes, and other DevOps tools**.
-- 👨‍💻 All of my projects are available at [[https://www.yourwebsite.tech](https://henok-portfolio.netlify.app/)]([https://www.yourwebsite.tech](https://henok-portfolio.netlify.app/))
-- 📫 How to reach me: **henok.gebresenbet@gmail.com**
+- 🌱 Expanding my skills in **React Native**, **TypeScript**, **Docker**, and **Microservices**.
+- 🚀 All my projects can be found at [**My Portfolio**](https://henok-portfolio.netlify.app/)
+- 📫 Reach me at **henok.gebresenbet@gmail.com**
 
 ---
 
 ### Skills:
 
-#### Front-End:
-- HTML
-- CSS
-- JavaScript
-- React
-- Next.js
-- TailwindCSS
-- Shadcn
-- Saas
+**Front-End:**
+- HTML, CSS, JavaScript
+- React, Next.js, TailwindCSS
+- Shadcn, Saas
 
-#### Back-End:
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- Prisma
-- Drizzle
-- Firebase
+**Back-End:**
+- Node.js, Express.js
+- MongoDB, PostgreSQL
+- Prisma, Drizzle, Firebase
 
-#### Full-Stack:
+**Full-Stack:**
 - MERN Stack
 
-#### Design:
+**Design:**
 - Figma
 
-#### Mobile:
+**Mobile:**
 - Learning React Native
 
 ---
 
-### Languages and Tools:
+### Languages & Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
@@ -56,7 +47,8 @@ A passionate Full Stack Developer from Ethiopia
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drizzle/drizzle-original.svg" alt="drizzle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
 </p>
 
 ---
@@ -70,3 +62,7 @@ A passionate Full Stack Developer from Ethiopia
 ---
 
 ![Profile Image](https://github.com/<username>/<username>/blob/main/path-to-your-image.png)
+
+https://avatars.githubusercontent.com/u/143357641?s=400&u=29aeb1ca3329e55966ba933178c58653d3e6edbf&v=4
+
+
