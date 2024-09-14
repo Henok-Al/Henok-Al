@@ -2,10 +2,9 @@
 
 A passionate Full Stack Developer from Ethiopia
 
-- 🔭 I’m currently working on [BookHive](#) <!-- Link to your project -->
-- 🌱 I’m currently learning **Typescript, GraphQL, Microservices with React and Node.js**, including **Docker, Kubernetes, and other DevOps tools**.
-- 👨‍💻 All of my projects are available at [https://www.yourwebsite.tech](https://www.yourwebsite.tech)
-- 📫 How to reach me: **your.email@example.com**
+- 🌱 I’m currently learning **,ReactNative, Typescript,docker,**, including **Docker, Kubernetes, and other DevOps tools**.
+- 👨‍💻 All of my projects are available at [[https://www.yourwebsite.tech](https://henok-portfolio.netlify.app/)]([https://www.yourwebsite.tech](https://henok-portfolio.netlify.app/))
+- 📫 How to reach me: **henok.gebresenbet@gmail.com**
 
 ---
 
