@@ -61,8 +61,6 @@ I'm a **Full Stack Developer** from Ethiopia, passionate about building digital 
 
 ---
 
-![Profile Image](https://github.com/<username>/<username>/blob/main/path-to-your-image.png)
-
-https://avatars.githubusercontent.com/u/143357641?s=400&u=29aeb1ca3329e55966ba933178c58653d3e6edbf&v=4
+![Profile Image](https://avatars.githubusercontent.com/u/143357641?s=400&u=29aeb1ca3329e55966ba933178c58653d3e6edbf&v=4)
 
 
