@@ -1,4 +1,5 @@
-# Hi 👋, I'm HENOK
+# Hi 👋, I'm HENOK ![image](https://github.com/user-attachments/assets/37edcebf-85f6-45c2-94b5-2dbeace8556a)
+
 
 I'm a **Full Stack Developer** from Ethiopia, passionate about crafting immersive digital experiences. My current focus is on mastering **React Native**, **TypeScript**, and **Jest** to build robust and performant mobile and web applications.
 
@@ -60,9 +61,5 @@ I'm a **Full Stack Developer** from Ethiopia, passionate about crafting immersiv
 <br/>
 
 ---
-
-
-
-![image](https://github.com/user-attachments/assets/11952bf9-4bd2-4513-88c0-f43e35e2d6be)
 
 
