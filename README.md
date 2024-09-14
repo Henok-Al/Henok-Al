@@ -1,6 +1,6 @@
 # Hi 👋, I'm  <img src="https://github.com/user-attachments/assets/37edcebf-85f6-45c2-94b5-2dbeace8556a" alt="image description" width="40" height="50"> HENOK
 
-![Web Development Cover](https://via.placeholder.com/1200x300.png?text=Web+Development)
+![Web Development Cover](https://images.pexels.com/photos/1234567/pexels-photo-1234567.jpeg) <!-- Replace with the actual URL -->
 
 I'm a **Full Stack Developer** from Ethiopia, passionate about crafting immersive digital experiences. My current focus is on mastering **React Native**, **TypeScript**, and **Jest** to build robust and performant mobile and web applications.
 
