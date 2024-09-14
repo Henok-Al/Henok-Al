@@ -1,4 +1,4 @@
-# Hi 👋, I'm  <img src="https://github.com/user-attachments/assets/37edcebf-85f6-45c2-94b5-2dbeace8556a" alt="image description" width="60" height="80"> HENOK
+# Hi 👋, I'm  <img src="https://github.com/user-attachments/assets/37edcebf-85f6-45c2-94b5-2dbeace8556a" alt="image description" width="60" height="80">HENOK
 
 
 
