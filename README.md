@@ -1,32 +1,73 @@
-## Hi there, I'm Henok Alemu 👋
+# Hi 👋, I'm HENOK
 
-### About Me
+A passionate Full Stack Developer from Ethiopia
 
-I'm a Full-Stack Developer passionate about building dynamic and responsive web applications. With a strong foundation in both front-end and back-end technologies, I love creating seamless and efficient solutions.
+- 🔭 I’m currently working on [BookHive](#) <!-- Link to your project -->
+- 🌱 I’m currently learning **Typescript, GraphQL, Microservices with React and Node.js**, including **Docker, Kubernetes, and other DevOps tools**.
+- 👨‍💻 All of my projects are available at [https://www.yourwebsite.tech](https://www.yourwebsite.tech)
+- 📫 How to reach me: **your.email@example.com**
 
-### 🌟 Skills & Technologies
+---
 
-- **Front-End**: HTML, CSS, JavaScript, React, Next.js, TailwindCSS, Shadcn, Saas
-- **Back-End**: Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Drizzle, Firebase
-- **Full-Stack**: MERN Stack
-- **Design**: Figma
-- **Mobile**: Learning React Native
+### Skills:
 
-### 🚀 Projects
+#### Front-End:
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
+- TailwindCSS
+- Shadcn
+- Saas
 
-- **[Blog App](https://react-firebase-blog-app-595df.web.app/)**: A feature-rich blogging platform built with React and Firebase.
-- **[Social Media App](https://github.com/henok-alemu/social-media-app)**: A social networking site developed using the MERN stack.
-- **[Admin Dashboard](https://github.com/henok-alemu/admin-dashboard)**: A comprehensive admin dashboard built with Next.js 14
+#### Back-End:
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Prisma
+- Drizzle
+- Firebase
 
-### 📊 GitHub Stats
+#### Full-Stack:
+- MERN Stack
 
-![Henok's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henok-alemu&show_icons=true&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=henok-alemu&style=flat-square)
+#### Design:
+- Figma
 
-### 💬 Let's Connect
+#### Mobile:
+- Learning React Native
 
-- **[LinkedIn](https://www.linkedin.com/in/henok-alemu)**
-- **[Twitter](https://twitter.com/henok_alemu)**
-- **[Email](mailto:henok.alemu@example.com)**
+---
 
-Thanks for visiting my profile. Let's build something amazing together!
+### Languages and Tools:
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drizzle/drizzle-original.svg" alt="drizzle" width="40" height="40"/>
+</p>
+
+---
+
+### Connect with me:
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yourprofile)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/yourprofile)
+
+<br/>
+
+---
+
+![Profile Image](https://github.com/<username>/<username>/blob/main/path-to-your-image.png)
