@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer** from Ethiopia, passionate about crafting immersive digital experiences. My current focus is on mastering **React Native**, **TypeScript**, and **Jest** to build robust and performant mobile and web applications.
 
-- 🌱 Currently sharpening my skills in **React Native**, **TypeScript**, and exploring advanced **DevOps tools** like Docker and Kubernetes.
+- 🌱 Currently sharpening my skills in **React Native** and **TypeScript**.
 - 🚀 You can check out my work at [**My Portfolio**](https://henok-portfolio.netlify.app/).
 - 📫 Feel free to reach out to me at **henok.gebresenbet@gmail.com**.
 
